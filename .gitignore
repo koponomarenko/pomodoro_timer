@@ -1,0 +1,9 @@
+# Meson subprojects and wraps
+**/subprojects/*
+!**/subprojects/*.wrap
+
+# Meson build dirs
+build/
+
+# Vim .swp
+.swp
