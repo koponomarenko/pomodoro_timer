@@ -7,3 +7,6 @@ build/
 
 # Vim .swp
 .swp
+
+# Qt Creator
+*.creator.user
